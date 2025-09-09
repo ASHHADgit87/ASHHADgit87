@@ -1,6 +1,6 @@
-<p align="center">
-  <h1>👋 Hi, I'm Muhammad Ashhadullah Zaheer</h1>
-</p>
+
+<h1 align="center">👋 Hi, I'm Muhammad Ashhadullah Zaheer</h1>
+
 
 <p align="center">
 🎓 Software Engineering student at <b>NED University, Karachi</b><br>
