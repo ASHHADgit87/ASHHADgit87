@@ -33,7 +33,7 @@
 
 ## 📈 GitHub Stats 
 
-<p align="center">
+<p>
   <a href="https://github.com/ASHHADgit87">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ASHHADgit87&show_icons=true&theme=classic&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ASHHADgit87&layout=compact&langs_count=8&theme=classic"/>
