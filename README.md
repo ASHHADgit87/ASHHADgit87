@@ -7,10 +7,10 @@
 ## 🛠️ Tech Stack  
 
 - 🌐 **Frontend:** HTML, CSS, JavaScript , React.js, Next.js, Tailwind CSS  
-- ⚙️ **Backend:** Node.js, Express.js, Firebase  
+- ⚙️ **Backend:** Node.js, Express.js, Firebase, REST API, JWT 
 - 🗄️ **Databases:** MongoDB, Firebase Firestore, MySQL, PostgreSQL
-- 🖥️ **Programming:** C++, Python (basics)  
-- ☁️ **Tools & Platforms:** Git, GitHub, Vercel, Netlify 
+- 🖥️ **Programming:** C++(DSA,OOP), Python (basics) , Java(basics)
+- ☁️ **Tools & Platforms:** Git, GitHub, Vercel, Netlify ,Render
 
 ## 📈 GitHub Stats 
 
