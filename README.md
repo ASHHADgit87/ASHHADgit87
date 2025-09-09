@@ -1,5 +1,19 @@
 <h1 align="center">👋 Hi, I'm Muhammad Ashhadullah Zaheer</h1>
 
+<p align="center">
+  <!-- GitHub Quest Winner -->
+  <img src="https://img.shields.io/badge/GitHub-Quest_Winner-ff69b4?style=for-the-badge&logo=github" alt="GitHub Quest Winner"/>
+
+  <!-- Arctic Code Vault Contributor -->
+  <img src="https://img.shields.io/badge/Contributor-Arctic_Code_Vault-00acee?style=for-the-badge&logo=github" alt="Arctic Code Vault Contributor"/>
+
+  <!-- GitHub Star -->
+  <img src="https://img.shields.io/badge/GitHub-Star-FFD700?style=for-the-badge&logo=github" alt="GitHub Star"/>
+
+  <!-- GitHub Sponsor -->
+  <img src="https://img.shields.io/badge/GitHub-Sponsor-6f42c1?style=for-the-badge&logo=github" alt="GitHub Sponsor"/>
+</p>
+
 ## 📝 About Me
 
 <p align="center">
