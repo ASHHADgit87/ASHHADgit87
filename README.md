@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Muhammad Ashhadullah Zaheer  
-
+<p align="center"># 👋 Hi, I'm Muhammad Ashhadullah Zaheer  </p>
+<p align="center">
 🎓 Software Engineering student at **NED University, Karachi**  
 💻 Passionate about **Web Development and Multi-tasking in Project Development**  
 🚀 Love building interactive apps, solving problems, and exploring new technologies  
-
+</p>
 ## 🛠️ Tech Stack  
 
 - 🌐 **Frontend:** HTML, CSS, JavaScript , React.js, Next.js, Tailwind CSS  
