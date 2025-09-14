@@ -15,7 +15,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-🌐 <b>Frontend:</b> HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS<br>
+🌐 <b>Frontend:</b> HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS, Three.js<br>
 ⚙️ <b>Backend:</b> Node.js, Express.js, Next.js, Firebase, REST API, JWT<br>
 🗄️ <b>Databases:</b> MongoDB, Firebase Firestore, MySQL, PostgreSQL<br>
 🖥️ <b>Programming:</b> C++ (DSA, OOP), Python (Basics), Java (Basics)<br>
