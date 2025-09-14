@@ -1,4 +1,6 @@
 <h1 align="center">👋 Hi, I'm Muhammad Ashhadullah Zaheer</h1>
+<h3 align="center">🚀 Full Stack Web Developer | Software Engineering Student</h3>
+
 
 
 
@@ -6,9 +8,10 @@
 
 <p align="center">
 🎓 Software Engineering student at <b>NED University, Karachi</b><br>
-💻 Passionate about <b>Web Development and Multi-tasking in Project Development</b><br>
+💻 Passionate <b>Full Stack Web Developer</b> with skills in both frontend & backend<br>
 🚀 Love building interactive apps, solving problems, and exploring new technologies
 </p>
+
 
 ---
 
