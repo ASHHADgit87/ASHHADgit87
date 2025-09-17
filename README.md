@@ -3,10 +3,9 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Software+Engineering+Student;Passionate+Problem+Solver;Tech+Explorer+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Software+Engineering+Student;Passionate+Problem+Solver;Tech+Explorer+🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -41,13 +40,7 @@
 
 ---
 
-## 🏆 GitHub Trophies  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ASHHADgit87&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 🐍 Contribution Snake  
 
