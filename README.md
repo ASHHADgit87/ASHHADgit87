@@ -42,13 +42,6 @@
 
 
 
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ASHHADgit87/ASHHADgit87/output/snake.svg" alt="Snake animation" />
-</p>
-
-
 ## 🔗 Connect with Me  
 
 <p align="center">
