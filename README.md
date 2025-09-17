@@ -2,7 +2,13 @@
 <h3 align="center">🚀 Full Stack Web Developer | Software Engineering Student</h3>
 
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Software+Engineering+Student;Passionate+Problem+Solver;Tech+Explorer+🚀" alt="Typing SVG" />
+  </a>
+</p>
 
+---
 
 ## 📝 About Me
 
@@ -11,7 +17,6 @@
 💻 Passionate <b>Full Stack Web Developer</b> with skills in both frontend & backend<br>
 🚀 Love building interactive apps, solving problems, and exploring new technologies
 </p>
-
 
 ---
 
@@ -32,6 +37,22 @@
 <p align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ASHHADgit87&show_icons=true&theme=classic&include_all_commits=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ASHHADgit87&layout=compact&langs_count=8&theme=classic" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ASHHADgit87&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/ASHHADgit87/ASHHADgit87/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
