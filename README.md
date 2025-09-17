@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Muhammad Ashhadullah Zaheer</h1>
-<h3 align="center">🚀 Full Stack Web Developer | Software Engineering Student</h3>
 
 
 <p align="center">
