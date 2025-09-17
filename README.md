@@ -45,10 +45,9 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/ASHHADgit87/ASHHADgit87/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ASHHADgit87/ASHHADgit87/output/snake.svg" alt="Snake animation" />
 </p>
 
----
 
 ## 🔗 Connect with Me  
 
