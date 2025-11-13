@@ -1,37 +1,34 @@
-<h1 align="center">👋 Hi, I'm Muhammad Ashhadullah Zaheer</h1>
-
+<h1 align="center">Hi, I'm Muhammad Ashhadullah Zaheer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Software+Engineer;Passionate+Problem+Solver&color=00F0FF&background=00000000" alt="Typing SVG" />
 </p>
 
-
-
 ---
 
-## 📝 About Me
+## About Me
 
 <p align="center">
-🎓 Software Engineering student at <b>NED University, Karachi</b><br>
-💻 Passionate <b>Full Stack Web Developer</b> with skills in both frontend & backend<br>
-🚀 Love building interactive apps, solving problems, and exploring new technologies
+Software Engineering student at <b>NED University, Karachi</b><br>
+Passionate <b>Full Stack Web Developer</b> with skills in both frontend & backend<br>
+Love building interactive apps, solving problems, and exploring new technologies
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 <p align="center">
-🌐 <b>Frontend:</b> HTML, CSS, JavaScript, React.js, Tailwind CSS<br>
-⚙️ <b>Backend:</b> Node.js, Express.js, Firebase, REST API, JWT<br>
-🗄️ <b>Databases:</b> MongoDB, Firebase Firestore, MySQL, PostgreSQL<br>
-🖥️ <b>Programming:</b> C++ (DSA, OOP), Python (Basics), Java (Basics)<br>
-☁️ <b>Tools & Platforms:</b> Git, GitHub, Vercel, Netlify, Render
+<b>Frontend:</b> HTML, CSS, JavaScript, React.js, Tailwind CSS<br>
+<b>Backend:</b> Node.js, Express.js, Firebase, REST API, JWT<br>
+<b>Databases:</b> MongoDB, Firebase Firestore, MySQL, PostgreSQL<br>
+<b>Programming:</b> C++ (DSA, OOP), Python (Basics), Java (Basics)<br>
+<b>Tools & Platforms:</b> Git, GitHub, Vercel, Netlify, Render
 </p>
 
 ---
 
-## 📈 GitHub Stats 
+## GitHub Stats 
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ASHHADgit87&show_icons=true&theme=classic&include_all_commits=true&count_private=true" />
@@ -40,9 +37,7 @@
 
 ---
 
-
-
-## 🔗 Connect with Me  
+## Connect with Me  
 
 <p align="center">
   <a href="mailto:ashhadullahzahir@gmail.com">
