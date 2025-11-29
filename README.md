@@ -28,6 +28,16 @@ Love building interactive apps, solving problems, and exploring new technologies
 
 ---
 
+## Stacks I Know
+
+- **MERN Stack:** MongoDB, Express.js, React.js, Node.js  
+- **React + Firebase Full Stack:** React.js, Firebase Auth, Firestore, Firebase Hosting  
+- **PERN Stack:** PostgreSQL, Express.js, React.js, Node.js  
+- **REST API + MySQL Backend Stack:** Node.js, Express.js, MySQL, JWT  
+- **Frontend Development Stack:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
+
+---
+
 ## GitHub Stats 
 
 <p align="center">
