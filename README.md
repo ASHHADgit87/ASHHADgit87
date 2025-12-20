@@ -10,7 +10,7 @@
 
 <p align="center">
 Software Engineering student at <b>NED University, Karachi</b><br>
-Passionate <b>Full Stack Web Developer</b> with skills in both frontend & backend<br>
+Passionate <b>Full Stack Web Developer</b> with strong frontend & backend skills<br>
 Love building interactive apps, solving problems, and exploring new technologies
 </p>
 
@@ -19,10 +19,10 @@ Love building interactive apps, solving problems, and exploring new technologies
 ## Tech Stack  
 
 <p align="center">
-<b>Frontend:</b> HTML, CSS, JavaScript, React.js, Tailwind CSS<br>
-<b>Backend:</b> Node.js, Express.js, Firebase, REST API, JWT<br>
+<b>Frontend:</b> HTML, CSS, JavaScript, <b>TypeScript</b>, React.js (JSX / <b>TSX</b>), Tailwind CSS<br>
+<b>Backend:</b> Node.js, Express.js, Firebase, REST APIs, JWT<br>
 <b>Databases:</b> MongoDB, Firebase Firestore, MySQL, PostgreSQL<br>
-<b>Programming:</b> C++ (DSA, OOP), Python (Basics), Java (Basics)<br>
+<b>Programming:</b> C++ (DSA, OOP), Python (Basics), Java (Basics), <b>TypeScript</b><br>
 <b>Tools & Platforms:</b> Git, GitHub, Vercel, Netlify, Render
 </p>
 
@@ -30,11 +30,11 @@ Love building interactive apps, solving problems, and exploring new technologies
 
 ## Stacks I Know
 
-- **MERN Stack:** MongoDB, Express.js, React.js, Node.js  
-- **React + Firebase Full Stack:** React.js, Firebase Auth, Firestore, Firebase Hosting  
-- **PERN Stack:** PostgreSQL, Express.js, React.js, Node.js  
-- **REST API + MySQL Backend Stack:** Node.js, Express.js, MySQL, JWT  
-- **Frontend Development Stack:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
+- **MERN Stack (JavaScript / TypeScript):** MongoDB, Express.js, React.js (JSX / TSX), Node.js  
+- **React + Firebase (TypeScript):** React (TSX), Firebase Auth, Firestore, Firebase Hosting  
+- **PERN Stack (TypeScript):** PostgreSQL, Express.js, React.js (TSX), Node.js  
+- **REST API + MySQL Backend:** Node.js, Express.js, MySQL, JWT  
+- **Modern Frontend Stack:** HTML, CSS, JavaScript, <b>TypeScript</b>, React.js (TSX), Tailwind CSS  
 
 ---
 
