@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Ashhadullah Zaheer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Software+Engineer;Passionate+Problem+Solver&color=00F0FF&background=00000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Software+Engineer;AI+Tools+Specialist;Passionate+Problem+Solver&color=00F0FF&background=00000000" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,8 +10,10 @@
 
 <p align="center">
 Software Engineering student at <b>NED University, Karachi</b><br>
-Passionate <b>Full Stack Web Developer</b> with skills in both frontend & backend<br>
-Love building interactive apps, solving problems, and exploring new technologies
+Passionate <b>Full Stack Web Developer</b> with strong frontend & backend expertise<br>
+Experienced in building scalable web apps using modern stacks<br>
+🚀 Expert in <b>50+ AI Tools</b> for development, productivity & automation<br>
+Love building interactive apps, solving real-world problems, and exploring cutting-edge technologies
 </p>
 
 ---
@@ -20,10 +22,10 @@ Love building interactive apps, solving problems, and exploring new technologies
 
 <p align="center">
 <b>Frontend:</b> HTML, CSS, JavaScript, TypeScript, React.js, React (TSX), Tailwind CSS<br>
-<b>Backend:</b> Node.js, Express.js, Firebase, REST API, JWT<br>
-<b>Databases:</b> MongoDB, Firebase Firestore, MySQL, PostgreSQL<br>
+<b>Backend:</b> Node.js, Express.js, Firebase, Supabase, REST API, JWT<br>
+<b>Databases:</b> MongoDB, Firebase Firestore, MySQL, PostgreSQL, Supabase (Postgres)<br>
 <b>Programming:</b> C++, JavaScript (ES6+), TypeScript, Python (Basics), Java (Basics)<br>
-<b>Tools & Platforms:</b> Git, GitHub, Vercel, Netlify, Render
+<b>Tools & Platforms:</b> Git, GitHub, Vercel, Netlify, Render, Supabase
 </p>
 
 ---
@@ -32,9 +34,18 @@ Love building interactive apps, solving problems, and exploring new technologies
 
 - **MERN Stack:** MongoDB, Express.js, React.js, Node.js  
 - **React + TypeScript + Firebase Full Stack:** React (TSX), TypeScript, Firebase Auth, Firestore, Firebase Hosting  
+- **React + TypeScript + Supabase Full Stack:** React (TSX), TypeScript, Supabase Auth, Supabase Postgres, Realtime APIs  
 - **PERN Stack:** PostgreSQL, Express.js, React.js, Node.js  
 - **REST API + MySQL Backend Stack:** Node.js, Express.js, MySQL, JWT  
 - **Frontend Development Stack:** HTML, CSS, JavaScript, TypeScript, React.js, React (TSX), Tailwind CSS  
+
+---
+
+## AI Expertise  
+
+<p align="center">
+Proficient in using <b>50+ AI tools</b> including generative AI, automation tools, coding assistants, design AI, productivity AI, and AI APIs integration for real-world applications.
+</p>
 
 ---
 
