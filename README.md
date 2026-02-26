@@ -18,6 +18,13 @@ Love building interactive apps, solving real-world problems, and exploring cutti
 
 ---
 
+##  Certifications
+
+- Certified Prompt Engineer – Dubai Future Foundation
+- Professional AI Concepts for Developers – Microsoft
+- Introduction to Generative AI Studio – Google
+
+---
 ## Tech Stack  
 
 <p align="center">
