@@ -22,7 +22,7 @@ Love building interactive apps, solving real-world problems, and exploring cutti
 
 <p align="center">
 Certified Prompt Engineer – Dubai Future Foundation<br>
-Professional AI Concepts for Developers – Microsoft<br>
+Professional AI Integrator In Development – Microsoft<br>
 Introduction to Generative AI Studio – Google
 </p>
 
