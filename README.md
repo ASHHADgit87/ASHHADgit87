@@ -20,10 +20,11 @@ Love building interactive apps, solving real-world problems, and exploring cutti
 
 ##  Certifications
 
-- Certified Prompt Engineer – Dubai Future Foundation
-- Professional AI Concepts for Developers – Microsoft
-- Introduction to Generative AI Studio – Google
-
+<p align="center">
+ Certified Prompt Engineer – Dubai Future Foundation
+ Professional AI Concepts for Developers – Microsoft
+ Introduction to Generative AI Studio – Google
+</p>
 ---
 ## Tech Stack  
 
