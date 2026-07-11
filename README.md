@@ -11,20 +11,6 @@
 
 ---
 
-## 🎬 Meet My AI Avatar
-
-<div align="center">
-
-I built an interactive 3D avatar with Three.js / React Three Fiber that waves, introduces itself, and talks — GitHub's README renderer strips live WebGL/audio, so it lives on my portfolio instead. Click below to meet it:
-
-<a href="https://ashhad.dev">
-  <img src="https://img.shields.io/badge/👋_Meet_My_3D_Avatar-Live_on_ashhad.dev-00F0FF?style=for-the-badge&logo=three.js&logoColor=white" alt="Meet my 3D avatar"/>
-</a>
-
-</div>
-
----
-
 ## About Me
 <p align="center">
 Software Engineering student at <b>NED University, Karachi</b><br>
