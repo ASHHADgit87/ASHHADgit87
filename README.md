@@ -1,15 +1,5 @@
 <div align="center">
 
-## Ashhadullah's Contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ASHHADgit87/ASHHADgit87/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=200&section=header&text=Muhammad%20Ashhadullah%20Zaheer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20AI%20Tools%20Specialist&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Software+Engineer;AI+Tools+Specialist;Passionate+Problem+Solver&color=00F0FF&background=00000000" alt="Typing SVG" />
