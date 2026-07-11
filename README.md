@@ -34,10 +34,6 @@ Introduction to Generative AI Studio – Google
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,firebase,supabase,mongodb,mysql,postgres,cpp,python,java,git,github,vercel,netlify&theme=dark" />
-</p>
-
-<p align="center">
 <b>Frontend:</b> HTML, CSS, JavaScript, TypeScript, React.js, React (TSX), Tailwind CSS<br>
 <b>Backend:</b> Node.js, Express.js, Firebase, Supabase, REST API, JWT<br>
 <b>Databases:</b> MongoDB, Firebase Firestore, MySQL, PostgreSQL, Supabase (Postgres)<br>
