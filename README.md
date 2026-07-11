@@ -16,7 +16,7 @@
 Software Engineering student at <b>NED University, Karachi</b><br>
 Passionate <b>Full Stack Web Developer</b> with strong frontend & backend expertise<br>
 Experienced in building scalable web apps using modern stacks<br>
-🚀 Expert in <b>50+ AI Tools</b> for development, productivity & automation<br>
+Expert in <b>50+ AI Tools</b> for development, productivity & automation<br>
 Love building interactive apps, solving real-world problems, and exploring cutting-edge technologies
 </p>
 
@@ -73,10 +73,6 @@ Proficient in using <b>50+ AI tools</b> including generative AI, automation tool
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHHADgit87&theme=react&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ASHHADgit87&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
