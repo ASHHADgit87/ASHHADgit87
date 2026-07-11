@@ -60,6 +60,14 @@ Proficient in using <b>50+ AI tools</b> including generative AI, automation tool
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ASHHADgit87/ASHHADgit87/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## GitHub Stats
 
 <p align="center">
