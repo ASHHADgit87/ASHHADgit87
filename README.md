@@ -62,14 +62,27 @@ Proficient in using <b>50+ AI tools</b> including generative AI, automation tool
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ASHHADgit87&show_icons=true&theme=classic&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ASHHADgit87&layout=compact&langs_count=8&theme=classic" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHHADgit87&theme=react&hide_border=true" alt="GitHub Streak"/>
-</p>
+<table>
+<tr>
+<td>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ASHHADgit87&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true"/>
+
+</td>
+
+<td>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHHADgit87&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHHADgit87&theme=tokyonight&hide_border=true&background=00000000" />
+
+</div>
 
 ---
 
