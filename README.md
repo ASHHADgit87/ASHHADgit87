@@ -29,22 +29,22 @@
 <tr>
 <th>Certification</th>
 <th>Issued By</th>
-<th>Verify</th>
+<th>View</th>
 </tr>
 <tr>
 <td>Certified Prompt Engineer</td>
 <td><img src="https://img.shields.io/badge/Dubai%20Future%20Foundation-0F172A?style=flat-square&logo=googleearth&logoColor=00F0FF"/></td>
-<td align="center"><a href="https://omp.dub.ai/certificate/Bfp662aaUSZR"><img src="https://img.shields.io/badge/View-00F0FF?style=flat-square&logoColor=white"/></a></td>
+<td align="center"><a href="https://omp.dub.ai/certificate/Bfp662aaUSZR"><img src="https://img.shields.io/badge/View-02084a?style=flat-square&logoColor=white"/></a></td>
 </tr>
 <tr>
 <td>Professional AI Concepts for Developers</td>
 <td><img src="https://img.shields.io/badge/Microsoft-0F172A?style=flat-square&logo=microsoft&logoColor=00A4EF"/></td>
-<td align="center"><a href="https://learn.microsoft.com/api/achievements/share/en-us/AshhadullahZaheer-4933/9RBV774U?sharingId=902929C73FA0C3AE"><img src="https://img.shields.io/badge/View-00F0FF?style=flat-square&logoColor=white"/></a></td>
+<td align="center"><a href="https://learn.microsoft.com/api/achievements/share/en-us/AshhadullahZaheer-4933/9RBV774U?sharingId=902929C73FA0C3AE"><img src="https://img.shields.io/badge/View-02084a?style=flat-square&logoColor=white"/></a></td>
 </tr>
 <tr>
 <td>Introduction to Generative AI Studio</td>
 <td><img src="https://img.shields.io/badge/Google-0F172A?style=flat-square&logo=google&logoColor=4285F4"/></td>
-<td align="center"><a href="https://simpli-web.app.link/e/QoD7zBIX40b"><img src="https://img.shields.io/badge/View-00F0FF?style=flat-square&logoColor=white"/></a></td>
+<td align="center"><a href="https://simpli-web.app.link/e/QoD7zBIX40b"><img src="https://img.shields.io/badge/View-02084a?style=flat-square&logoColor=white"/></a></td>
 </tr>
 </table>
 
