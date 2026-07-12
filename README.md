@@ -13,13 +13,13 @@
 
 ## About Me
 
-<p></p>
-Software Engineering student at **NED University, Karachi**
-Passionate **Full Stack Web Developer** with strong frontend & backend expertise
-Experienced in building scalable web apps using modern stacks
-Expert in **50+ AI Tools** for development, productivity & automation
-Love building interactive apps, solving real-world problems, and exploring cutting-edge technologies
-</p>
+<table align="center">
+<tr><td>Software Engineering student at <b>NED University, Karachi</b></td></tr>
+<tr><td>Passionate <b>Full Stack Web Developer</b> with strong frontend & backend expertise</td></tr>
+<tr><td>Experienced in building scalable web apps using modern stacks</td></tr>
+<tr><td>Expert in <b>50+ AI Tools</b> for development, productivity & automation</td></tr>
+<tr><td>Love building interactive apps, solving real-world problems, and exploring cutting-edge technologies</td></tr>
+</table>
 
 ---
 
