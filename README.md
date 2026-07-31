@@ -46,6 +46,16 @@
 <td><img src="https://img.shields.io/badge/Google-0F172A?style=flat-square&logo=google&logoColor=4285F4"/></td>
 <td align="center"><a href="https://simpli-web.app.link/e/QoD7zBIX40b"><img src="https://img.shields.io/badge/View-02084a?style=flat-square&logoColor=white"/></a></td>
 </tr>
+<tr>
+<td>5-Day AI Agents: Intensive Vibe Coding Course</td>
+<td><img src="https://img.shields.io/badge/Kaggle-0F172A?style=flat-square&logo=kaggle&logoColor=20BEFF"/></td>
+<td align="center"><a href="https://drive.google.com/file/d/1wycQh69fAxz5HxKpYyxnEyvBrXPhJQjS/view?usp=drive_link"><img src="https://img.shields.io/badge/View-02084a?style=flat-square&logoColor=white"/></a></td>
+</tr>
+<tr>
+<td>Anthropic Skilljar Certifications (14) — Claude API & LLM Development</td>
+<td><img src="https://img.shields.io/badge/Anthropic-0F172A?style=flat-square&logo=anthropic&logoColor=D97757"/></td>
+<td align="center"><a href="https://drive.google.com/file/d/1rSST4tWH74JXJKXgpmOimAFOD6A_0jJw/view?usp=drive_link"><img src="https://img.shields.io/badge/View-02084a?style=flat-square&logoColor=white"/></a></td>
+</tr>
 </table>
 
 
